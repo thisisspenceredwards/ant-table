@@ -5,3 +5,5 @@ Uses Ant Design and Ant Design's dark mode
 - Tested it works from github
 - yarn install
 - yarn start
+
+Does have an anchor/href warning which I have chosen to ignore since there are no links
