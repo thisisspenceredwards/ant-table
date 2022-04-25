@@ -6,4 +6,4 @@ Uses Ant Design and Ant Design's dark mode
 - yarn install
 - yarn start
 
-Does have an anchor/href warning which I have chosen to ignore since there are no links
+Does have an anchor/href warning which I have chosen to ignore since there are no links.
