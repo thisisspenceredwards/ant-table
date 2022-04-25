@@ -3,4 +3,5 @@
 
 Uses Ant Design and Ant Design's dark mode
 - Tested it works from github
-- npm install
+- yarn install
+- yarn start
